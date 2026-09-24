@@ -1,13 +1,13 @@
 # Finding The Hypotenuse of a Right Triangle using the math Library
 
 ## Description
-This program helps users find the hypotenuse of a right triangle.
+This program, using the math library, help users calculate a right triangle without having to solve it mentally or on paper.
 
 ## How to Run
 
-- First, open the file in a Python-based code.
-- Second, run the file on you device.
-- Lastly, input the necessary inputs
+- Firstly, download and open the file in a compatible code editor, like VSCode.
+- Secondly, run the file on your device.
+- Lastly, input what the program asks you, like the length of the first side of the hypotenuse.
 
 ## Input Needed
 
